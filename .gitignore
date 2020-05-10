@@ -110,3 +110,6 @@ data/*
 **/resnet.model
 **/*.pth
 **/*.pt
+
+experiments/siammask_sharp/SiamMask_DAVIS.pth
+experiments/siammask_sharp/SiamMask_VOT.pth
